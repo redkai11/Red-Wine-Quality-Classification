@@ -10,6 +10,9 @@ The main objective of this project is to predict the quality of red wine using c
 * Compare the performance of base models of Random Forest Classifier and Support Vector Machine
 * Hyperparameter tune the Random Forest Classifier
 
+I also tried to reduce the dimension of the features both in linear way and non-linear way using PCA, KernelPCA, and T-SNE.
+It turns out that it was best to keep all the given features instead of performing dimension reduction.
+
 The dataset was obtained from https://www.kaggle.com/uciml/red-wine-quality-cortez-et-al-2009
 The dataset includes 
 
