@@ -6,7 +6,7 @@ The main objective of this project is to predict the quality of red wine using c
 # Description 
 * Explore for outliers in the dataset
 * Visualize the distribution of each feature and perform appropriate transformation to fix the skewness
-* Use SMOTH oversampling technique to fix the imbalanced dataset
+* Use SMOTH oversampling/undersampling technique to fix the imbalanced dataset
 * Compare the performance of base models of Random Forest Classifier and Support Vector Machine
 * Hyperparameter tune the Random Forest Classifier
 
